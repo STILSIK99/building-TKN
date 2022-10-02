@@ -1,0 +1,6 @@
+**/*.idea
+**/*.pro
+**/*__pycache__*
+**/*.bat
+**/*.spec
+**/*.jpg
